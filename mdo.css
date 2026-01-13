@@ -107,12 +107,7 @@ hr {
   text-decoration: none;
 }
 @font-face {
-  font-family: 'fontello';
-  src: url('font/fontello.eot?63629409');
-  src: url('font/fontello.eot?63629409#iefix') format('embedded-opentype'),
-       url('font/fontello.woff?63629409') format('woff'),
-       url('font/fontello.ttf?63629409') format('truetype'),
-       url('font/fontello.svg?63629409#fontello') format('svg');
+  
   font-weight: normal;
   font-style: normal;
 }
